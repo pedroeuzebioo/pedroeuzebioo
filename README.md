@@ -1,6 +1,6 @@
 <h1>Olá! Eu sou o Pedro Henrique Desennvolvedor Web Full Stack</h1>
 
-<h2>👨🏻‍💻 Sobre mim</h2>
+<h2>👨🏻‍💻 Sobre mim:</h2>
 
 <ul>
   <li>
@@ -14,7 +14,7 @@
   </li>
 </ul>
 
-<h2>📊 Github Stats</h2>
+<h2>📊 Github Stats:</h2>
 
 <div>  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eupedrohenrique&show_icons=true&count_private=true&hide_border=true&title_color=5CCDEB&icon_color=5CCDEB&text_color=ffffff&bg_color=0d1117" alt="Pedro Henrique github stats" /> 
@@ -35,20 +35,13 @@
   <img align="center" alt="Pedro-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-<h3>⚙️ Back-end e banco de dados</h3>
+<h3>⚙️ Back-end e banco de dados:</h3>
 
 <div style="display: inline_block">
   <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Pedro-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Pedro-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>
-
-<h3>🚀 Outros</h3>
-
-<div style="display: inline_block">
-  <img align="center" alt="Pedro-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Pedro-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
 <h2>🌐 Socials:</h2>
