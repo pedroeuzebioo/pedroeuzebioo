@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou o Pedro Henrique Desennvolvedor Web Full Stack</h1>
+<h1>Olá! Eu sou o Pedro Henrique Desenvolvedor Web Full Stack</h1>
 
 <h2>👨🏻‍💻 Sobre mim:</h2>
 
