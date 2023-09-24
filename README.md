@@ -4,13 +4,13 @@
 
 <ul>
   <li>
-    👨 Sou estudante do último ano do Ensino Médio Técnico em Informática, com um interesse apaixonado pela área de desenvolvimento. Tenho facilidade de aprendizado e uma verdadeira paixão por fazer o que amo. Adquiri conhecimentos básicos de programação ao longo do curso e possuo habilidades em tecnologias como HTML, CSS, JavaScript, SQL, MySQL, React, Node, Git e GitHub. Tenho experiência na criação e interação de APIs.
+    👨 Sou um estudante do último ano do Ensino Médio Técnico em Informática, apaixonado pela área de desenvolvimento. Minha jornada até aqui tem sido marcada por uma busca constante pelo conhecimento e uma paixão ardente por tudo o que faço. Durante meu curso, adquiri habilidades sólidas em várias tecnologias, incluindo HTML, CSS, Javascript, Java, PHP, e SQL. Além disso, continuei explorando novas tecnologias, linguagens, frameworks e bibliotecas, como Bootstrap, Tailwind, React, Styled Components, Node.js, Git, Express, Sass, e Typescript.
   </li>
   <li>
     💛 Possuo um forte conjunto de competências, incluindo resolução de problemas, proatividade, trabalho em equipe, dedicação, foco e esforço constante. Sempre busco pensar fora da caixa, aplicando um senso crítico e criativo em meus projetos. Também sou reconhecido por minha boa comunicação e habilidades de colaboração, o que me permite interagir de forma produtiva com colegas de equipes. Estou ansioso para aplicar minha paixão e habilidades em desafios no campo da tecnologia e contribuir para soluções inovadoras.
   </li>
   <li>
-    👨🏻‍💻 Atualmente sou Desenvolvedor Web no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) Campus de Baturité, lidero projetos, monitorando uma turma de Informática e Internet, criando sistemas personalizados para o instituto.
+    👨🏻‍💻 Atualmente sou Desenvolvedor Web no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) Campus de Baturité.
   </li>
 </ul>
 
@@ -33,6 +33,7 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Pedro-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Pedro-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
 
 <h3>⚙️ Back-end e banco de dados:</h3>
@@ -42,11 +43,14 @@
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Pedro-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Pedro-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Pedro-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Pedro-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 </div>
 
 <h2>🌐 Socials:</h2>
 
 <div> 
+   <a href="https://instagram.com/eupedrohenrique.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:eupedrohenrique.euzebio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-lp142830/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
