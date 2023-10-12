@@ -1,18 +1,4 @@
-<h1>Olá! Eu sou o Pedro Henrique Desenvolvedor Web Full Stack</h1>
-
-<h2>👨🏻‍💻 Sobre mim:</h2>
-
-<ul>
-  <li>
-    👨 Sou um estudante do último ano do Ensino Médio Técnico em Informática, apaixonado pela área de desenvolvimento. Minha jornada até aqui tem sido marcada por uma busca constante pelo conhecimento e uma paixão ardente por tudo o que faço. Durante meu curso, adquiri habilidades sólidas em várias tecnologias, incluindo HTML, CSS, Javascript, Java, PHP, e SQL. Além disso, continuei explorando novas tecnologias, linguagens, frameworks e bibliotecas, como Bootstrap, Tailwind, React, Styled Components, Node.js, Git, Express, Sass, e Typescript.
-  </li>
-  <li>
-    💛 Possuo um forte conjunto de competências, incluindo resolução de problemas, proatividade, trabalho em equipe, dedicação, foco e esforço constante. Sempre busco pensar fora da caixa, aplicando um senso crítico e criativo em meus projetos. Também sou reconhecido por minha boa comunicação e habilidades de colaboração, o que me permite interagir de forma produtiva com colegas de equipes. Estou ansioso para aplicar minha paixão e habilidades em desafios no campo da tecnologia e contribuir para soluções inovadoras.
-  </li>
-  <li>
-    👨🏻‍💻 Atualmente sou Desenvolvedor Web no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) Campus de Baturité.
-  </li>
-</ul>
+<h1>Hi! I am Pedro Henrique 👋</h1>
 
 <h2>📊 Github Stats:</h2>
 
@@ -36,7 +22,7 @@
   <img align="center" alt="Pedro-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
 
-<h3>⚙️ Back-end e banco de dados:</h3>
+<h3>⚙️ Back-end</h3>
 
 <div style="display: inline_block">
   <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
