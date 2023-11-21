@@ -35,3 +35,9 @@ Eu sou desenvolvedor web apaixonado e entusiasta pela área de desenvolvimento. 
   <a href="https://www.linkedin.com/in/pedro-henrique-lp142830/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
+### Github Stats 📊
+
+<div>  
+  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eupedrohenrique&show_icons=true&count_private=true&hide_border=true&title_color=5CCDEB&icon_color=5CCDEB&text_color=ffffff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="31%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eupedrohenrique&layout=compact&hide_border=true&title_color=5CCDEB&text_color=ffffff&bg_color=0d1117" />
+</div>
