@@ -31,6 +31,6 @@ Desenvolvedor web e graduado como técnico em informática. Especializado em Rea
 ### Github Stats 📊
 
 <div>  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedroeuzebioo&show_icons=true&count_private=true&hide_border=true&title_color=5CCDEB&icon_color=5CCDEB&text_color=ffffff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="40%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroeuzebioo&layout=compact&hide_border=true&title_color=5CCDEB&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=pedroeuzebioo&show_icons=true&count_private=true&hide_border=true&title_color=5CCDEB&icon_color=5CCDEB&text_color=ffffff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="39%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroeuzebioo&layout=compact&hide_border=true&title_color=5CCDEB&text_color=ffffff&bg_color=0d1117" />
 </div>
