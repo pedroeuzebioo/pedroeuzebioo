@@ -1,8 +1,22 @@
-### Olá! Eu sou o Pedro Euzebio 👋
+<img 
+  align="right" 
+  height="590em" 
+  src="https://raw.githubusercontent.com/gist/pedroeuzebioo/791ecf5a9db86472901b60fed1beca0a/raw/ff39c89664d4ecf38a3378824367fa31f3109231/githubcard.svg"/>
 
-Desenvolvedor web e graduado como técnico em informática. Especializado em React, Next.js, Tailwind CSS e Prisma para desenvolvimento fullstack. Experiência sólida no IFCE Campus Baturité, atuando em projetos notáveis. Atuei como Técnico de TI no FMAS de Baturité, continuo aprimorando minhas habilidades e compartilhando conhecimento. Busco oportunidades em projetos inovadores e colaborativos.
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Pedro Euzebio</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroeuzebioo&color=blueviolet" alt="Profile views" /> </p>
 
-### Tecnologias 🛠
+- 🔥 Desenvolvedor Web Fullstack apaixonado por resolver problemas
+
+- 🎓 Formação técnica sólida adquirida na EEEP de Baturité no curso de Informática
+
+- 💼 Experiência como Desenvolvedor Web no IFCE Campus Baturité e Técnico de TI no FMAS de Baturité
+
+- 🌐 Conheça mais sobre mim em [pedroeuzebio](https://pedroeuzebio.vercel.app)
+
+- 🚀 Busco oportunidades em projetos colaborativos e desafios que me permitam aplicar meu conhecimento diversificado, do front-end ao back-end.
+
+## 🛠 &nbsp;Tech Stack
 
 <div style="display: inline_block">
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,22 +28,17 @@ Desenvolvedor web e graduado como técnico em informática. Especializado em Rea
   <img align="center" alt="Pedro-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="Pedro-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Pedro-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-   <img align="center" alt="Pedro-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Pedro-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-### Contato 🌐
+## ⚙️ &nbsp;GitHub Analytics
 
-<div> 
-  <a href="mailto:pedroeuzebio.contato@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-lp142830/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
+<p align="left">
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=pedroeuzebioo&show_icons=true&theme=omni" alt="pedroeuzebioo's stats"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroeuzebioo&layout=compact&theme=omni" alt="pedroeuzebioo's most languages"/>
+</p>
 
-### Github Stats 📊
+## Contato
 
-<div>  
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=pedroeuzebioo&show_icons=true&count_private=true&hide_border=true&title_color=5CCDEB&icon_color=5CCDEB&text_color=ffffff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Euzebio-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroeuzebio/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Gmail Badge](https://img.shields.io/badge/-pedroeuzebio.contato@gmail.com-blueviolet?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroeuzebio.contato@gmail.com)](mailto:pedroeuzebio.contato@gmail.com)
