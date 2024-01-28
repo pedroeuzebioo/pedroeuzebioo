@@ -6,9 +6,9 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Pedro Euzebio</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroeuzebioo&color=blueviolet" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor Web Fullstack apaixonado por resolver problemas
+- 🔥 Desenvolvedor Fullstack apaixonado por resolver problemas
 
-- 🎓 Formação técnica sólida adquirida na EEEP de Baturité no curso de Informática
+- 🎓 Formado em Técnico em Informática
 
 - 💼 Experiência como Desenvolvedor Web no IFCE Campus Baturité e Técnico de TI no FMAS de Baturité
 
@@ -40,5 +40,5 @@
 
 ## Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Euzebio-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroeuzebio/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Euzebio-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroeuzebio/)](https://www.linkedin.com/in/pedroeuzebio/) 
 [![Gmail Badge](https://img.shields.io/badge/-pedroeuzebio.contato@gmail.com-blueviolet?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroeuzebio.contato@gmail.com)](mailto:pedroeuzebio.contato@gmail.com)
