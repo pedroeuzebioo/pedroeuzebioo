@@ -8,11 +8,11 @@
 
 - 🔥 Desenvolvedor Fullstack apaixonado por resolver problemas
 
-- 🎓 Formado em Técnico em Informática
+- 🎓 Formado em Técnico em Informática e cursando Informática para Internet no IFCE
 
 - 💼 Experiência como Desenvolvedor Web no IFCE Campus Baturité e Técnico de TI no FMAS de Baturité
 
-- 🌐 Conheça mais sobre mim em [pedroeuzebio](https://pedroeuzebio.vercel.app)
+- 🌐 Explore meu portfólio em [pedroeuzebio](https://pedroeuzebio.vercel.app)
 
 - 🚀 Busco oportunidades em projetos colaborativos e desafios que me permitam aplicar meu conhecimento diversificado, do front-end ao back-end.
 
