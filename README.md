@@ -6,7 +6,7 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Pedro Euzebio</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroeuzebioo&color=blueviolet" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor Fullstack apaixonado por resolver problemas
+- 🔥 Desenvolvedor Web
 
 - 🎓 Formado em Técnico em Informática e cursando Informática para Internet no IFCE
 
