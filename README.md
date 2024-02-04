@@ -14,7 +14,7 @@
 
 - 🌐 Explore meu portfólio em [pedroeuzebio](https://pedroeuzebio.vercel.app)
 
-- 🚀 Busco oportunidades em projetos colaborativos e desafios que me permitam aplicar meu conhecimento diversificado, do front-end ao back-end.
+- 🚀 Busco oportunidades em projetos colaborativos e desafios que me permitam aplicar meu conhecimento diversificado, do front-end ao back-end
 
 ## 🛠 &nbsp;Tech Stack
 
