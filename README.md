@@ -1,6 +1,6 @@
 # Pedro Euzebio
 
-tenho 17 anos e sou um desenvolvedor web com essas tecnologias: Typescript, Javascript, HTML, CSS, React, Next.js, Tailwind CSS, Java, Spring, Node.js, SQL, Git e muito mais.
+tenho 17 anos e sou um programador com essas tecnologias: Typescript, Javascript, HTML, CSS, React, Next.js, Tailwind CSS, Java, Spring, Node.js, SQL, Git e muito mais.
 
 Você pode me encontrar ouvindo jazz enquanto saboreio uma xícara de café, uma combinação que inspira minha criatividade e concentração.
 
