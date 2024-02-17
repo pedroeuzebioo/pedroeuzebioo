@@ -38,6 +38,7 @@ Minha jornada profissional até o momento inclui experiência como Desenvolvedor
       <p align="center">
         <img align="center" alt="Logo do PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
         <img align="center" alt="Logo do MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+        <img align="center" alt="Logo do Prisma" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" />
       </p>
     </td>
     <td valign="top" width="25%">
