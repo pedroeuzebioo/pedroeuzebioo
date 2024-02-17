@@ -9,3 +9,45 @@ Com uma sólida base de conhecimento que abrange desde o front-end até o back-e
 <h1 align="left"> 🚀 Experiência Profissional</h1>
 
 Minha jornada profissional até o momento inclui experiência como Desenvolvedor Web, onde utilizei minha expertise técnica para criar soluções eficientes em desenvolvimento, manutenção e otimização de desempenho de sistemas. Além disso, desempenhei o papel de Técnico de TI, garantindo o bom funcionamento dos sistemas e fornecendo suporte técnico de forma ágil e eficiente.
+
+<h1 align="left">🛠 Habilidades Técnicas</h1>
+
+<table align="left">
+  <tr>
+    <td valign="top" width="25%">
+      <h2 align="center">Linguagens</h2>
+      <div align="center" display="inline_block">
+        <img align="center" alt="Logo do Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img align="center" alt="Logo do Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+        <img align="center" alt="Logo do HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br> <br>
+        <img align="center" alt="Logo do CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img align="center" alt="Logo do Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+      </div>
+    </td>
+    <td valign="top" width="25%">
+      <h2 align="center">Frameworks e Bibliotecas</h2>
+      <div align="center">
+        <img align="center" alt="Logo do React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        <img align="center" alt="Logo do Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+        <img align="center" alt="Logo do Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+        <img align="center" alt="Logo do Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+      </div>
+    </td>
+    <td valign="top" width="25%">
+      <h2 align="center">Banco de Dados</h2>
+      <p align="center">
+        <img align="center" alt="Logo do PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+        <img align="center" alt="Logo do MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      </p>
+    </td>
+    <td valign="top" width="25%">
+      <h2 align="center">Ferramentas de Desenvolvimento</h2>
+      <p align="center">
+         <img align="center" alt="Logo do Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        <img align="center" alt="Logo do VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+        <img align="center" alt="Logo do Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
+        <img align="center" alt="Logo do Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      </p>
+    </td>
+  </tr>
+</table>
