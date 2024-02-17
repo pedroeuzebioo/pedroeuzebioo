@@ -51,3 +51,10 @@ Minha jornada profissional até o momento inclui experiência como Desenvolvedor
     </td>
   </tr>
 </table>
+
+# 🌐 Contato
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro.euzebio_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroeuzebio)
+[![Gmail](https://img.shields.io/badge/Gmail-%233333.svg?logo=gmail&logoColor=white)](mailto:pedroeuzebio.contato@gmail.com)
+
