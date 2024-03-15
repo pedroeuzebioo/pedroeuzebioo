@@ -6,9 +6,7 @@ Com uma sólida base de conhecimento que abrange tanto o front-end quanto o back
 
 <h1 align="left"> 🚀 Experiência Profissional</h1>
 
-Durante minha jornada profissional, atuei como Desenvolvedor Web, onde utilizei minha expertise técnica para criar soluções eficientes em desenvolvimento, manutenção e otimização de desempenho de sistemas. Uma das minhas realizações mais notáveis foi desenvolver o Front-end do SAE (Sistema de Atividades Extracurriculares) do curso de Comércio do IFCE, proporcionando uma experiência de usuário intuitiva e funcional para os alunos e professores.
-
-Além disso, desempenhei o papel de Técnico de TI, garantindo o bom funcionamento dos sistemas e fornecendo suporte técnico de forma ágil e eficiente.
+Durante minha trajetória profissional como Desenvolvedor Web no IFCE, utilizei minha expertise técnica para criar soluções eficientes em desenvolvimento, manutenção e otimização de desempenho de sistemas. Uma das minhas conquistas mais notáveis foi o desenvolvimento do Front-end do SAE (Sistema de Atividades Extracurriculares) do curso de Comércio do IFCE, proporcionando uma experiência de usuário intuitiva e funcional para alunos e professores.
 
 <h1 align="left">🛠 Habilidades Técnicas</h1>
 
