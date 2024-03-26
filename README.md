@@ -1,6 +1,6 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Pedro Euzebio</h1>
 
-Com uma sólida base de conhecimento que abrange tanto o front-end quanto o back-end, mantenho-me constantemente atualizado com os mais recentes frameworks, bibliotecas e melhores práticas de design e processamento de dados. Destaco-me por liderar e contribuir significativamente no desenvolvimento de um sistema de delivery para a feira de ciências de 2023, em colaboração com colegas de curso.
+Quando se trata de habilidades técnicas, estou equipado com um conjunto diversificado. Desde a criação de estruturas e estilos envolventes com HTML/CSS até a implementação de interações dinâmicas com JavaScript e suas bibliotecas/frameworks como React.js e Next.js. Além disso, meu domínio em Node.js para a lógica de back-end e meu expertise em bancos de dados relacionais me capacitam a construir sistemas robustos e eficientes.
 
 > "Nada neste mundo supera a boa e velha persistência. Talento não supera. Nada mais comum que talentosos fracassados. Genialidade não supera. Gênios não reconhecidos é praticamente um clichê. Educação não supera. Porque o mundo é cheio de tolos educados. Persistência e determinação, apenas, são poderosas." - Theodore Thornton Munger
 
