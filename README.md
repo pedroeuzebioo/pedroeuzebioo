@@ -6,7 +6,9 @@ Quando se trata de habilidades técnicas, estou equipado com um conjunto diversi
 
 <h1 align="left"> 🚀 Experiência Profissional</h1>
 
-Durante minha trajetória profissional como Desenvolvedor Web no IFCE, utilizei minha expertise técnica para criar soluções eficientes em desenvolvimento, manutenção e otimização de desempenho de sistemas. Uma das minhas conquistas mais notáveis foi o desenvolvimento do Front-end do SAE (Sistema de Atividades Extracurriculares) do curso de Comércio do IFCE, proporcionando uma experiência de usuário intuitiva e funcional para alunos e professores.
+Minha jornada começou no Instituto Federal de Educação, Ciência e Tecnologia do Ceará, onde assumi o papel de Desenvolvedor Web. Lá, fui responsável pelo desenvolvimento e manutenção de aplicações web, garantindo que cada sistema atendesse às necessidades da instituição com desempenho impecável e usabilidade otimizada.
+
+Posteriormente, no Fundo Municipal de Assistência Social, gerenciei a infraestrutura de TI e forneci suporte técnico aos usuários internos, garantindo que todas as engrenagens tecnológicas funcionassem perfeitamente para impulsionar as atividades da organização.
 
 <h1 align="left">🛠 Tecnologias</h1>
 
